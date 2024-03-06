@@ -3,8 +3,8 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #000;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }
 .personal-greeting {
     position: absolute;
@@ -113,6 +113,8 @@ nav {
 .content-section p {
     padding: 40px 20px;
     text-align: justify;
+    background-color: #fff;
+    color: #000;
 }
 
 .highlight {
